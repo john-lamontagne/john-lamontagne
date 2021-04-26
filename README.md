@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [EMIS-X](https://www.emishealth.com/emis-x/emis-x-the-vision/) alongside an ever growing list of side projects
 
-- 🌱 I’m currently learning **C#, .NET Core, Docker, PostgreSQL**
+- 🌱 I’m currently learning **C#, .NET Core, Next,js, Docker, PostgreSQL**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
