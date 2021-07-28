@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [EMIS-X](https://www.emishealth.com/emis-x/emis-x-the-vision/) alongside an ever growing list of side projects
 
-- 📖 Things I'm learning at the moment: 
+- 📖 I'm currently learning:
   - **.NET Core**
   - **Next.js**
   - **Docker**
