@@ -3,4 +3,4 @@
 
 - 💻 I work for [CPOMS](https://www.cpoms.co.uk/)
 
-- 🦊 I'm mainly using GitLab at the moment, but might be back on here for side projects soon
+- 🦊 I use Gitlab for most of my work, but on here still for personal projects.
